@@ -1,0 +1,1 @@
+export const waitParams = { visible: true, timeout: 3000 } 
